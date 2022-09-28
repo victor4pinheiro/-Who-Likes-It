@@ -39,7 +39,7 @@ cargo run
 
 # Pull Requests & Issues
 
-Bugs. Sugestions. Improvements. If you have any of this, feel free to open a PR or issue describing it.
+Bugs. Sugestions. Improvements. If you have any of this, feel free to open a PR or issue describing it. This will help me too much.
 
 # License
 
